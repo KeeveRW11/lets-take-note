@@ -21,6 +21,8 @@
   Select the Note title and give your note a title. Then select Note text and place whatever note you want saved there. Once that is done you will have the option to save the notes by clicking the save icon. Saved notes will be saved to the left side of the application and each note will have a trash can for deletion purpose.
   ## License
   ![Unlicensed](https://img.shields.io/badge/license-Unlicense-blue.svg)
+  ## Deployed APP
+  Heroku: [https://shielded-mountain-71593.herokuapp.com/]
   ## For More Details
   Contact me:
   Github:[https://github.com/KeeveRW11/lets-take-note](https://github.com/KeeveRW11)
