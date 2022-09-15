@@ -27,4 +27,6 @@
   Contact me:
   Github:[https://github.com/KeeveRW11/lets-take-note](https://github.com/KeeveRW11)
   Email:[keevewhyte+github@gmail.com](keevewhyte+github@gmail.com)
+  ## Screenshot
+  https://github.com/KeeveRW11/lets-take-note/issues/2
 
