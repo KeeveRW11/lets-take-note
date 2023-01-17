@@ -22,7 +22,7 @@
   ## License
   ![Unlicensed](https://img.shields.io/badge/license-Unlicense-blue.svg)
   ## Deployed APP
-  Heroku: [https://shielded-mountain-71593.herokuapp.com/]
+  Heroku: [https://letstakenote.herokuapp.com/]
   ## For More Details
   Contact me:
   Github:[https://github.com/KeeveRW11/lets-take-note](https://github.com/KeeveRW11)
